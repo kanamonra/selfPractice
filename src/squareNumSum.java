@@ -5,4 +5,5 @@ public class squareNumSum {
     public static int squareSum(int[] num) {
         return Arrays.stream(num).map(n -> n * n).sum();
     }
+
 }

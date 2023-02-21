@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97a6bd95-cb74-4e07-a17a-9169c1a054f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../network_practice/src/Day23/SelfDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../network_practice/src/Day23/selfPracticeDay23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selfPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAY16/src/Day23.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DAY16/src/Day23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAY16/src/testForStringChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DAY16/src/testForStringChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../network_practice/src/day22.java" beforeDir="false" afterPath="$PROJECT_DIR$/../network_practice/src/day22.java" afterDir="false" />
+    <list default="true" id="97a6bd95-cb74-4e07-a17a-9169c1a054f2" name="Changes" comment="self0215">
+      <change beforePath="$PROJECT_DIR$/../DAY16/src/ThreadMultiJava8Echo/MulticastClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DAY16/src/ThreadMultiJava8Echo/MulticastClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon v5.0" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon v5.0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../network_practice/src/NioNetworking/ServerSocketChannelTimeServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../network_practice/src/NioNetworking/ServerSocketChannelTimeServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../network_practice/src/NioNetworking/SocketChannelTimeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../network_practice/src/NioNetworking/SocketChannelTimeClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/squareNumSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/squareNumSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,17 +36,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Day27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day27" />
+      <module name="selfPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Day27" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,6 +70,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676453376326</updated>
     </task>
+    <task id="LOCAL-00001" summary="self0215">
+      <created>1676454341812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676454341812</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="self0215" />
+    <option name="LAST_COMMIT_MESSAGE" value="self0215" />
   </component>
 </project>
